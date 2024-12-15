@@ -1,0 +1,25 @@
+{
+
+    "Clientes":[
+
+        {"cpf":"99988877766","nome":"Rita","telefone":"32334444","celular":"998334444","email":"rita@yahoo.com","senha":"ritinhadocelinho","cargo":"manicure"}
+
+    ],
+    "Colaboradores":[
+
+        {"cpf":"99988877766","nome":"Carlota","telefone":"32334444","celular":"998334444","email":"carlotaJF@yahoo.com","senha":"CarlotaSG","cargo": "Administradora"}
+
+    ],
+    "Cargo":[
+
+        {"id":"212122","nome":"manicure"},
+        {"id":"212133","nome":"Administradora"}
+
+    ],
+    "Loja":[
+
+        {"cnpj":"1212121"}
+
+    ]
+
+}
