@@ -2,7 +2,8 @@
 
     "Clientes":[
 
-        {"cpf":"99988877766","nome":"Rita","telefone":"32334444","celular":"998334444","email":"rita@yahoo.com","senha":"ritinhadocelinho","cargo":"manicure"}
+        {"cpf":"99988877766","nome":"Rita","telefone":"32334444","celular":"998334444","email":"rita@yahoo.com","senha":"ritinhadocelinho"},
+        {"cpf":"99988878888","nome":"Gelva","telefone":"32334455","celular":"998335544","email":"gelva@yahoo.com","senha":"gelvaaa"}
 
     ],
     "Colaboradores":[
