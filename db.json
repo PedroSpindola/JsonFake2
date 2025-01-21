@@ -2,13 +2,13 @@
 
     "Clientes":[
 
-        {"cpf":"99988877766","nome":"Rita","telefone":"32334444","celular":"998334444","email":"rita@yahoo.com","senha":"ritinhadocelinho"},
-        {"cpf":"99988878888","nome":"Gelva","telefone":"32334455","celular":"998335544","email":"gelva@yahoo.com","senha":"gelvaaa"}
+        {"id":"1","cpf":"99988877766","nome":"Rita","telefone":"32334444","celular":"998334444","email":"rita@yahoo.com","senha":"ritinhadocelinho"},
+        {"id":"2","cpf":"99988878888","nome":"Gelva","telefone":"32334455","celular":"998335544","email":"gelva@yahoo.com","senha":"gelvaaa"}
 
     ],
     "Colaboradores":[
 
-        {"cpf":"99988877766","nome":"Carlota","telefone":"32334444","celular":"998334444","email":"carlotaJF@yahoo.com","senha":"CarlotaSG","cargo": "Administradora"}
+        {"id":"1","cpf":"99988877766","nome":"Carlota","telefone":"32334444","celular":"998334444","email":"carlotaJF@yahoo.com","senha":"CarlotaSG","cargo": "Administradora"}
 
     ],
     "Cargo":[
