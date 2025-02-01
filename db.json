@@ -19,7 +19,7 @@
     ],
     "Loja":[
 
-        {"cnpj":"1212121"}
+        {"cnpj":"1212121", "nome":"Illumine","email":"illumine@gmail.com", "telefone":"3232-5555","celular":"977775555","dtaCriacao":"12/05/2015","logradouro":"Rua","numero":"1","complemento":"Loja","bairro":"São Geraldo","cidade":"juiz de fora","estado":"Minas Gerais","cep":"36021-370"}
 
     ]
 
